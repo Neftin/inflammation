@@ -1,3 +1,3 @@
 ## Inflammation ##
 
-* Plotting script
+This is a sandbox for plotting scripts
